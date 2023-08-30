@@ -4,9 +4,11 @@
 
 This repository contains a set of SQL queries for cleaning and transforming data in the `Nashvillahousing` table. The queries are designed to address various data quality and formatting issues.
 
-## Standardize Date Format
+## Standardize Date Format:
+Converts the SaleDate column to a standardized date format using CAST.
 
-Converts the `SaleDate` column to a standardized date format.
+## Populate Property Address Data:
+Fills in missing PropertyAddress values by joining the table with itself based on `ParcelID` and copying non-null addresses.
 
 ```sql
 -- SQL code for standardizing date format

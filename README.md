@@ -1,4 +1,4 @@
-# SQL_Nashville_Housing
+# SQL Nashville Housing
 
 This section involves various data cleaning tasks for the  `Nashvillahousing` table.
 

@@ -1,4 +1,4 @@
-# SQL-_Nashville_Housing
+# SQL_Nashville_Housing
 
 This repository contains a set of SQL queries for cleaning and transforming data in the `Nashvillahousing` table. The queries are designed to address various data quality and formatting issues.
 

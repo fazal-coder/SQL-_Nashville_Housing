@@ -16,5 +16,4 @@ This section involves various data cleaning tasks for the  `Nashvillahousing` ta
 
 - **Delete Unused Columns:** Drops specified columns (`OwnerAddress`, `TaxDistrict`, `PropertyAddress`, `SaleDate`) from the table.
 
-
--- Diyan 
+**Diyan**

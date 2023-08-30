@@ -10,7 +10,7 @@ Converts the SaleDate column to a standardized date format using CAST.
 ## Populate Property Address Data:
 Fills in missing PropertyAddress values by joining the table with itself based on `ParcelID` and copying non-null addresses.
 
-- Breaking out PropertyAddress:
+- **Breaking out PropertyAddress:**
 Splits the `PropertyAddress` column into `Address` and `City` using `SUBSTRING` and `CHARINDEX`, and stores them in new columns.
 
 Breaking out OwnerAddress:
